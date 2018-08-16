@@ -2,6 +2,11 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import nba from 'nba';
+
+var promise - new Promisee()
+    ..then(suc, err)
+
 class App extends Component {
   render() {
     return (
